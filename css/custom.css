@@ -1,0 +1,99 @@
+/* --------------------------------- */
+.frist-header {
+    background-color: rgba(238, 236, 232, 0.562);
+    text-align: center;
+    padding: 10px 0px;
+}
+
+.frist-header h6 {
+    font-weight: bold;
+    margin: 0px;
+    font-size: 20px;
+}
+
+.frist-header h6 strong {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 800;
+}
+
+.frist-header h6 span {
+    text-decoration: underline;
+}
+
+/* --------------------------------- */
+
+.secound-header {
+    text-align: center;
+    background-color: #000;
+    padding: 10px;
+   
+}
+
+.secound-header p {
+    color: #ffff;
+    font-size: 16px;
+    margin: 0px;
+    letter-spacing: 1px;
+}
+
+/* --------------------------------- */
+.logo_img img {
+    max-width: 130px;
+
+}
+
+.shopping-cart img {
+    max-width: 22px;
+}
+
+.nav-link:hover,
+.nav-link:focus {
+    color: rgb(255 129 35);
+}
+
+.navbar-expand-lg {
+    height: auto;
+    margin: 0px;
+}
+
+.dropdown-toggle {
+    border: #e5e5e5a8 2px solid;
+}
+
+/* --------------------------------- */
+/* --------------------------------- */
+/* --------------------------------- */
+/* 
+@media (min-width: 768px) and (max-width: 992px), (min-width: 570px) and (max-width: 768px) {
+    .navbar {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        z-index: 1000;
+    }
+    .navbar-toggler, .navbar-brand, .shopping-cart {
+        position: fixed;
+        top: 0;
+        z-index: 1001;
+    }
+    .navbar-collapse {
+        margin-top: 50px; 
+    }
+} */
+
+/* --------------------------------- */
+/* --------------------------------- */
+/* --------------------------------- */
+/* --------------------------------- */
+/* --------------------------------- */
+/* --------------------------------- */
+/* --------------------------------- */
+/* --------------------------------- */
+/* --------------------------------- */
+/* --------------------------------- */
+/* --------------------------------- */
+/* --------------------------------- */
+/* --------------------------------- */
+/* --------------------------------- */
+/* --------------------------------- */
+/* --------------------------------- */
